@@ -1,0 +1,30 @@
+VOXLOOM — QUICK GUIDE
+
+1. Extract the entire ZIP, for example onto your desktop.
+2. Open the extracted folder and double-click VoxLoom.exe.
+3. Drop recordings into the window or click “Choose files”.
+4. Choose the recording language: German, English or automatic.
+5. Enable “Distinguish speakers” to get speaker labels.
+   Select the known speaker count, e.g. 2 for an interview, or choose automatic.
+6. Choose a results folder and click “Start transcription”.
+7. When finished, click “Open results folder”.
+   Every recording gets Transcript.docx (Word), TXT, SRT and JSON files.
+
+No internet, account or installation is needed.
+Keep VoxLoom.exe, _internal and models together in the same folder.
+Your original recordings are not modified.
+Switch the interface between English and German in the top-right corner.
+
+Please listen to the recording and correct the Word document afterwards.
+Automatic transcripts and speaker labels can contain mistakes;
+* marks an uncertain speaker assignment. Overlapping voices are difficult.
+Speakers receive neutral labels: Speaker 1, Speaker 2, etc. Replace these in Word if needed.
+
+Long recordings can take longer than their duration on an ordinary computer.
+“Cancel” stops the current process. Completed results are kept.
+If a file fails: check that it plays correctly or save it as WAV/MP3.
+If models are missing: extract the entire ZIP again.
+
+VoxLoom 0.1.0 · Windows 10/11 x64 · recommended: 8 GB RAM
+This preview is not digitally signed. Institutional computers may require IT approval.
+Do not disable security protections.

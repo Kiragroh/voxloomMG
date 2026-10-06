@@ -1,0 +1,8 @@
+{
+  "name": "VoxLoom",
+  "tool": "Built-in GPT Image / image_gen",
+  "date": "2026-10-06",
+  "asset": "assets/logo.png",
+  "prompt": "Use case: logo-brand. Asset type: Windows desktop application icon and product brand symbol. Create one finished square logo symbol for VoxLoom, a calm, elegant offline audio transcription app that weaves voices into clear written text. A distinctive interwoven ribbon forming a stylized V and three short audio waveform strokes, strong cohesive geometry, bold silhouette readable at 32 pixels, sophisticated teal and deep petrol with a small warm amber accent. Crisp flat graphic design, rounded precise edges, no texture, no 3D, no shadow, no lettering, no mockup, no border, no extra symbols. Single centered symbol with generous transparent padding. Transparent background. This is the actual finished logo, not a presentation sheet.",
+  "icon": "assets/logo.ico (format conversion and size variants of the generated logo)"
+}

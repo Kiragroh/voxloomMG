@@ -1,0 +1,30 @@
+VOXLOOM — KURZANLEITUNG
+
+1. ZIP-Datei vollständig entpacken, zum Beispiel auf den Desktop.
+2. Den entpackten Ordner öffnen und VoxLoom.exe doppelklicken.
+3. Eine oder mehrere Aufnahmen in das Fenster ziehen oder „Dateien auswählen“ klicken.
+4. Sprache der Aufnahme wählen: Deutsch, Englisch oder automatisch.
+5. „Personen unterscheiden“ einschalten, wenn du Sprecherwechsel möchtest.
+   Wenn bekannt, die Anzahl der Personen wählen (z. B. 2 für ein Interview).
+6. Ergebnisordner wählen und „Transkription starten“ klicken.
+7. Nach Abschluss „Ergebnisordner öffnen“ klicken.
+   Pro Aufnahme findest du Transcript.docx (Word), TXT, SRT und JSON.
+
+Du brauchst kein Internet, kein Konto und keine Installation.
+Bitte VoxLoom.exe zusammen mit _internal und models im gleichen Ordner lassen.
+Die Originalaufnahmen werden nicht verändert.
+Die Menü-Sprache lässt sich oben rechts auf Englisch umschalten.
+
+Zum Schluss die Aufnahme anhören und das Word-Dokument korrigieren.
+Automatische Transkripte und Sprecherzuordnungen können Fehler enthalten;
+* markiert eine unsichere Zuordnung. Gleichzeitige Stimmen sind schwierig.
+Die Sprecher heißen neutral Person 1, Person 2 usw. Namen kannst du in Word ersetzen.
+
+Eine lange Aufnahme kann auf einem gewöhnlichen PC länger als die Aufnahme dauern.
+„Abbrechen“ beendet die laufende Verarbeitung. Bereits fertige Ergebnisse bleiben erhalten.
+Bei einer fehlerhaften Datei: prüfen, ob sie sich abspielen lässt, oder als WAV/MP3 speichern.
+Bei fehlenden Modellen: das vollständige ZIP erneut entpacken.
+
+VoxLoom 0.1.0 · Windows 10/11 x64 · empfohlen: 8 GB RAM
+Diese Vorschauversion ist nicht digital signiert. Unternehmensrechner können die Freigabe
+durch die IT erfordern. Keine Sicherheitsfunktionen deaktivieren.

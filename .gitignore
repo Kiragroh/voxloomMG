@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+models/
+build/
+dist/
+release/
+local-reference/
+local-test/
+*.spec
+*.log
