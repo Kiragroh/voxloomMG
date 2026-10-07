@@ -8,6 +8,8 @@
 
 **[Download Windows Portable ZIP — 633 MB](https://github.com/Kiragroh/voxloom/releases/download/v0.1.0/VoxLoom-0.1.0-Windows-x64-Portable.zip)** · [Release page / Downloadseite](https://github.com/Kiragroh/voxloom/releases/tag/v0.1.0)
 
+**[Google Drive download / Download über Google Drive](https://drive.google.com/file/d/1ljoQ0MScTsammtQ9CE9SbiPh7oU69e83/view?usp=drivesdk)** — same complete portable ZIP; access depends on the Drive file's permissions.
+
 This repository is private: sign in with the GitHub account that has access. Download the portable ZIP asset, not GitHub's “Source code” ZIP.
 
 1. Download `VoxLoom-0.1.0-Windows-x64-Portable.zip` from the link above and **extract the entire ZIP**.
